@@ -5,4 +5,4 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
-<h2>Was able to predict and get accuracy of 74% the <a href="https://github.com/parinith/Titanic-Machine-Learning-from-Disaster/blob/master/Titanic.ipynb">link to the notebook</a></h2>
+<h3>Was able to predict and get accuracy of 74% the <a href="https://github.com/parinith/Titanic-Machine-Learning-from-Disaster/blob/master/Titanic.ipynb">link to the notebook</a></h3>
